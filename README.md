@@ -29,6 +29,13 @@ The tool creates the greenplan itself from the selected material, removing unnec
   </p>
 
 ### Main Quest
+MainQuest performs the following functions:
+
+- Allows the assignment of new quests which, depending on the selected Condtition, are initialized
+- With the help of the translation keys here, the link to the language manager can be used to assign the corresponding quest names and descriptions
+- Allows you to select the quest pattern displayed in the UI
+- Allows you to assign a reward and the value of the reward for the quest.
+- The Main Quest is universal; differences in the way the quest is performed depend on the conditions assigned; in the example, there is one condition for rebuilding the house
 
 
 ### Attributes
