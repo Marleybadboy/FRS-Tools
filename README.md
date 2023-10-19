@@ -37,6 +37,12 @@ MainQuest performs the following functions:
 - Allows you to assign a reward and the value of the reward for the quest.
 - The Main Quest is universal; differences in the way the quest is performed depend on the conditions assigned; in the example, there is one condition for rebuilding the house
 
-
+<p align="center">
+  <img width="550" height="1200" src="GRAPHICS/MainQuest.png">
+  <br />
+ Main Quest preview
+  </p>
+  
 ### Attributes
+
 An example of a simple attribute to control the header changing what names and fonts it has only effect in the Unity inspector
