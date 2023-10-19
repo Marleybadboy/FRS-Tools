@@ -23,8 +23,13 @@ CSVReader is used to read the files.
 A tool for creating buildings for in-game building placement functions. Creates a scriptableobject which serves as the database for a given building, holding values, an icon and 2 gameobjects (a target model and a greenplan). 
 The tool creates the greenplan itself from the selected material, removing unnecessary components and adding the component to be controlled when placing it on the stage.
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="GRAPHICS/BuildingTool.png">
+  <br />
+ Preview BuildingTool
   </p>
+
 ### Main Quest
+
+
 ### Attributes
 An example of a simple attribute to control the header changing what names and fonts it has only effect in the Unity inspector
